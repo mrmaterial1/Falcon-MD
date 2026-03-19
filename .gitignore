@@ -1,0 +1,6 @@
+node_modules/
+session/
+temp-sessions/
+.env
+*.save
+session-id.txt

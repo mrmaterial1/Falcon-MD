@@ -186,48 +186,81 @@ git clone https://github.com/mrmaterial1/Falcon-MD
 cd Falcon-MD
 npm install
 npm run session
-⚠️ Disclaimer
-�
-
-This bot is not affiliated with WhatsApp Inc.
-Use at your own risk. We are not responsible for any misuse, abuse, or ban.
-Inspired by the original work of Baileys, enhanced by mrmaterial1.
-�
-
-📜 License
-�
-
-This project is licensed under the Apache License 2.0
-�
-
-
-�
-￼ 
-�
-
-🙏 Credits
-�
-
-Role
-Name
-👑 Creator & Developer
-mrmaterial1
-🔧 Core Library
-Baileys by WhiskeySocket
-�
-
-🧠 Developer Notice
-�
-
-🚫 This project is NOT FOR SALE and is for educational and personal use only.
-🔴 Do not use without giving proper credit to the original author.
-⛔ Unauthorized selling, re-uploading, or claiming as your own is strictly prohibited.npm start
-
+npm start
 
 ---
 
+## ⚠️ Disclaimer
 
-⭐ Star this repo if you like Falcon-MD! ⭐
-Made with ❤️ by mrmaterial1
-�
-```
+<div align="center">
+
+This bot is **not affiliated with WhatsApp Inc.**
+
+Use at your own risk. We are **not responsible** for any misuse, abuse, or ban.
+
+Inspired by the original work of **Baileys**, enhanced by **mrmaterial1**.
+
+</div>
+
+---
+
+## 📜 License
+
+<div align="center">
+
+This project is licensed under the **Apache License 2.0**
+
+<br/>
+
+<a href="LICENSE">
+  <img src="https://img.shields.io/badge/License-Apache%202.0-FF0000?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+## 🙏 Credits
+
+<div align="center">
+
+| Role | Name |
+|------|------|
+| 👑 Creator & Developer | [mrmaterial1](https://github.com/mrmaterial1) |
+| 🔧 Core Library | [Baileys by WhiskeySocket](https://github.com/whiskeysockets/baileys) |
+
+</div>
+
+---
+
+## 🧠 Developer Notice
+
+<div align="center">
+
+🚫 This project is **NOT FOR SALE** and is for educational and personal use only.
+
+<br/>
+
+🔴 **Do not use without giving proper credit** to the original author.
+
+<br/>
+
+⛔ Unauthorized selling, re-uploading, or claiming as your own is strictly prohibited.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Made+with+❤️+by+mrmaterial1&fontSize=20&fontColor=FF0000&animation=twinkling"/>
+
+<br/>
+
+⭐ **Star this repo if you like Falcon-MD!** ⭐
+
+<br/>
+
+**Made with ❤️ by [mrmaterial1](https://github.com/mrmaterial1)**
+
+</div>

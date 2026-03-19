@@ -7,7 +7,16 @@
     "start": "node index.js",
     "session": "node generate-session.js"
   },
-  "keywords": ["whatsapp", "bot", "falcon-md", "baileys"],
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "falcon-md",
+    "baileys"
+  ],
   "author": "Ahmed-King",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1",
+    "uuid": "^13.0.0"
+  }
 }

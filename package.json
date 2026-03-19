@@ -1,22 +1,17 @@
 {
   "name": "falcon-md",
   "version": "1.0.0",
-  "description": "Falcon-MD WhatsApp Bot powered by Baileys",
+  "description": "Falcon-MD WhatsApp Bot Session Generator",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node server.js",
+    "bot": "node index.js",
     "session": "node generate-session.js"
   },
-  "keywords": [
-    "whatsapp",
-    "bot",
-    "falcon-md",
-    "baileys"
-  ],
-  "author": "Ahmed-King",
-  "license": "MIT",
-  "dependencies": {
-    "express": "^5.2.1",
-    "uuid": "^13.0.0"
-  }
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["whatsapp", "bot", "falcon-md", "baileys"],
+  "author": "mrmaterial1",
+  "license": "Apache-2.0"
 }
